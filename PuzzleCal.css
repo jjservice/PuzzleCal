@@ -58,7 +58,7 @@ h3 ion-icon{
 #calculator{
     height: 560px;
     margin-top: 20px;
-    border: 6px solid black;
+    border: 6px solid lightgreen;
     border-radius: 20px;
     background-image: url(CalculatorGif11.gif);
     background-position: center;
